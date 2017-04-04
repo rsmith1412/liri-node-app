@@ -9,6 +9,7 @@ exports.twitterKeys = {
   access_token_secret: '3rxFn6ZcMohnNgq4T0y3qtvlGQ3Mf0OdoLQP3chFHlcwu',
 }
 
+//Spotify API keys to be used later
 exports.spotifyKeys = {
     client_id: '8d512aa123bd415495849ccd064e38c1',
     client_secret: '8b7ee5b3767041b39e84215d1f34a8ef'
